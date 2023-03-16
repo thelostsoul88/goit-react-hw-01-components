@@ -2,7 +2,7 @@
   margin: 0 auto;
   width: 350px;
   border-radius: 15px;
-  background: #f0f0f0;
+  background-color: white;
   box-shadow: 20px 15px 20px #949494, -20px -15px 20px #ffffff;
 }
 
@@ -40,8 +40,8 @@
   flex-direction: column;
   align-items: center;
   gap: 5px;
-  background-color: rgb(231, 231, 231);
-  box-shadow: 0 0 1px rgb(0 0 0 / 15%);
+  background-color: rgb(225, 225, 225);
+  box-shadow: 1px 0 4px rgb(0 0 0 / 15%);
 }
 
 .firstChild {
