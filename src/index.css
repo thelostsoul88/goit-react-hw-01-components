@@ -43,6 +43,6 @@ h2 {
   text-align: center;
 }
 
-.container > h2 {
+div > h2 {
   margin-top: 20px;
 }
